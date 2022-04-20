@@ -30,4 +30,9 @@
 
 # Latest Medium posts
 <!-- BLOG-POST-LIST:START -->
+- [Technology Radar Vol. 26: key recommendations](https://joseadanof.medium.com/technology-radar-vol-26-key-recommendations-d0b42214a459?source=rss-33421e60e9d------2)
+- [DevOps Free Conferences September-October 2021](https://joseadanof.medium.com/devops-free-conferences-september-october-2021-d344961fd9df?source=rss-33421e60e9d------2)
+- [Cloud Native Free Training and Certifications](https://joseadanof.medium.com/cloud-native-free-training-and-certifications-4c86851659f8?source=rss-33421e60e9d------2)
+- [Así obtuve mi certificación como “AWS Cloud Practitioner”​ en pocas semanas](https://joseadanof.medium.com/as%C3%AD-obtuve-mi-certificaci%C3%B3n-como-aws-cloud-practitioner-en-pocas-semanas-afa454c9ea3e?source=rss-33421e60e9d------2)
+- [Comunidades DataScience e Inteligencia Artificial en Chile](https://joseadanof.medium.com/comunidades-datascience-e-inteligencia-artificial-en-chile-30e169a4898?source=rss-33421e60e9d------2)
 <!-- BLOG-POST-LIST:END -->
