@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TheKubeQuest](https://t.me/thekubequest)
 
-- 🌱 I’m currently learning **ArgoCD, OpenTelemetry, Pulumi**
+- 🌱 I’m currently learning **ArgoCD, OpenTelemetry, Pulumi, Go**
 
 - 📝 I regularly write articles on [https://joseadanof.medium.com](https://joseadanof.medium.com)
 
