@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/joseadanof" target="blank"><img src="https://img.shields.io/twitter/follow/joseadanof?logo=twitter&style=for-the-badge" alt="joseadanof" /></a> </p>
 
-- 🔭 I’m currently working on [TheKubeQuest](https://t.me/thekubequest)
+- 🔭 I’m currently working on [TheKubeQuest] Project(https://t.me/thekubequest)
 
 - 🌱 I’m currently learning **ArgoCD, OpenTelemetry, Pulumi, Go**
 
 - 📝 I regularly write articles on [https://joseadanof.medium.com](https://joseadanof.medium.com)
 
-- 💬 Ask me about **DevOps, DevSecOps, Cloud and Security**
+- 💬 Ask me about **DevOps Toolset & Practices, Containers, Cloud and Kubernetes**
 
-- 📫 How to reach me **joseadanof@gmail.com**
+- 📫 Reach me at **joseadanof@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joseadan/](https://www.linkedin.com/in/joseadan/)
 
