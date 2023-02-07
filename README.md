@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/joseadanof" target="blank"><img src="https://img.shields.io/twitter/follow/joseadanof?logo=twitter&style=for-the-badge" alt="joseadanof" /></a> </p>
 
-- 🔭 I’m currently working on [TheKubeQuest] Project(https://t.me/thekubequest)
+- 🔭 I’m currently working on [TheKubeQuest](https://t.me/thekubequest) Project
 
 - 🌱 I’m currently learning **ArgoCD, OpenTelemetry, Pulumi, Go**
 
